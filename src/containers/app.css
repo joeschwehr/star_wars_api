@@ -3,10 +3,45 @@
     font-style: normal;
     font-weight: normal;
     src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+} 
+
+@font-face {
+    font-family: 'Star Jedi Rounded Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Star Jedi Rounded Regular'), url('Star_Jedi_Rounded.woff') format('woff');
 }
 
+@font-face {
+    font-family: 'Star Jedi Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Star Jedi Regular'), url('Starjedi.woff') format('woff');
+} 
+
+@font-face {
+    font-family: 'Star Jedi Outline Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Star Jedi Outline Regular'), url('Starjout.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Star Jedi Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Star Jedi Regular'), url('Starjedi.woff') format('woff');
+    }
+    
+@font-face {
+    font-family: 'Star Jedi Hollow Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Star Jedi Hollow Regular'), url('SJ.woff') format('woff');
+    }
+
 h1 {
-    font-family: "SEGA LOGO FONT";
+    font-family: 'Star Jedi Hollow Regular';
     letter-spacing: 1px;
     color: #0ccac4;
     font-weight: 200;

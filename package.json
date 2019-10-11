@@ -1,5 +1,5 @@
 {
-  "name": "robofriends",
+  "name": "starfriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,7 @@
     "tachyons": "^4.11.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start of starfriends",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
