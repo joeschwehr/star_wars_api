@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/joeschwehr/star_wars_api/static/css/main.0f572332.chunk.css",
-    "main.js": "/joeschwehr/star_wars_api/static/js/main.bf6abb38.chunk.js",
-    "main.js.map": "/joeschwehr/star_wars_api/static/js/main.bf6abb38.chunk.js.map",
-    "runtime-main.js": "/joeschwehr/star_wars_api/static/js/runtime-main.fda29406.js",
-    "runtime-main.js.map": "/joeschwehr/star_wars_api/static/js/runtime-main.fda29406.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/joeschwehr/star_wars_api/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.391a59ea.chunk.js": "/joeschwehr/star_wars_api/static/js/2.391a59ea.chunk.js",
-    "static/js/2.391a59ea.chunk.js.map": "/joeschwehr/star_wars_api/static/js/2.391a59ea.chunk.js.map",
-    "index.html": "/joeschwehr/star_wars_api/index.html",
-    "precache-manifest.b3fa9ca4d64043bdeb914aa251121806.js": "/joeschwehr/star_wars_api/precache-manifest.b3fa9ca4d64043bdeb914aa251121806.js",
-    "service-worker.js": "/joeschwehr/star_wars_api/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/joeschwehr/star_wars_api/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.0f572332.chunk.css.map": "/joeschwehr/star_wars_api/static/css/main.0f572332.chunk.css.map",
-    "static/media/app.css": "/joeschwehr/star_wars_api/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/star_wars_api/static/css/main.f2256091.chunk.css",
+    "main.js": "/star_wars_api/static/js/main.c44863a9.chunk.js",
+    "main.js.map": "/star_wars_api/static/js/main.c44863a9.chunk.js.map",
+    "runtime-main.js": "/star_wars_api/static/js/runtime-main.5564091d.js",
+    "runtime-main.js.map": "/star_wars_api/static/js/runtime-main.5564091d.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/star_wars_api/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.391a59ea.chunk.js": "/star_wars_api/static/js/2.391a59ea.chunk.js",
+    "static/js/2.391a59ea.chunk.js.map": "/star_wars_api/static/js/2.391a59ea.chunk.js.map",
+    "index.html": "/star_wars_api/index.html",
+    "precache-manifest.139901f5e831059f709eb447e89dd81f.js": "/star_wars_api/precache-manifest.139901f5e831059f709eb447e89dd81f.js",
+    "service-worker.js": "/star_wars_api/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/star_wars_api/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.f2256091.chunk.css.map": "/star_wars_api/static/css/main.f2256091.chunk.css.map",
+    "static/media/app.css": "/star_wars_api/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.fda29406.js",
+    "static/js/runtime-main.5564091d.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.391a59ea.chunk.js",
-    "static/css/main.0f572332.chunk.css",
-    "static/js/main.bf6abb38.chunk.js"
+    "static/css/main.f2256091.chunk.css",
+    "static/js/main.c44863a9.chunk.js"
   ]
 }
