@@ -1,3 +1,5 @@
+## A React app that displays data from a Star Wars API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
